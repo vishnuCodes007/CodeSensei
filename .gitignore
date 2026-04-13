@@ -1,0 +1,8 @@
+isl_env/
+__pycache__/
+*.pyc
+.env
+
+# Allow model files
+!model.pkl
+!labels.pkl
